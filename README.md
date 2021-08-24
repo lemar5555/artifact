@@ -1,0 +1,2 @@
+# artifact
+Creates an artifact
